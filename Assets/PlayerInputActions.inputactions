@@ -46,19 +46,8 @@
             "bindings": [
                 {
                     "name": "",
-                    "id": "98db42cb-4019-4079-bfc5-83513531dcda",
-                    "path": "",
-                    "interactions": "",
-                    "processors": "",
-                    "groups": "",
-                    "action": "Move",
-                    "isComposite": false,
-                    "isPartOfComposite": false
-                },
-                {
-                    "name": "",
-                    "id": "96a04611-3745-4848-9cd8-270909620a8a",
-                    "path": "",
+                    "id": "40c47a2b-7794-457b-9e44-dc3d1bb24add",
+                    "path": "<Keyboard>/leftShift",
                     "interactions": "",
                     "processors": "",
                     "groups": "",
@@ -69,7 +58,7 @@
                 {
                     "name": "",
                     "id": "c49d0520-4e79-4d45-be9b-a18b81da3b05",
-                    "path": "",
+                    "path": "<Keyboard>/space",
                     "interactions": "",
                     "processors": "",
                     "groups": "",
@@ -80,13 +69,79 @@
                 {
                     "name": "",
                     "id": "be11cb2c-0405-4175-b091-ba7c107ed9ae",
-                    "path": "",
+                    "path": "<Keyboard>/rightArrow",
                     "interactions": "",
-                    "processors": "",
+                    "processors": "Scale(factor=-1)",
                     "groups": "",
                     "action": "Rotate",
                     "isComposite": false,
                     "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "26e7535d-0356-4ab0-8d35-1838aa348fca",
+                    "path": "<Keyboard>/leftArrow",
+                    "interactions": "",
+                    "processors": "Scale",
+                    "groups": "",
+                    "action": "Rotate",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "2D Vector",
+                    "id": "274dd6f7-3209-47c1-bbd6-de41bde9c52b",
+                    "path": "2DVector",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Move",
+                    "isComposite": true,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "up",
+                    "id": "1100cb17-3fbd-4ab3-a1d2-5834c419157d",
+                    "path": "<Keyboard>/w",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Move",
+                    "isComposite": false,
+                    "isPartOfComposite": true
+                },
+                {
+                    "name": "down",
+                    "id": "f430dbeb-dc6b-4f53-8714-f31862ea10c5",
+                    "path": "<Keyboard>/s",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Move",
+                    "isComposite": false,
+                    "isPartOfComposite": true
+                },
+                {
+                    "name": "left",
+                    "id": "ec630ec6-65b4-418b-bbfa-c90c8b43e752",
+                    "path": "<Keyboard>/a",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Move",
+                    "isComposite": false,
+                    "isPartOfComposite": true
+                },
+                {
+                    "name": "right",
+                    "id": "47ae335c-5d71-4cbb-918b-97f9e5309b3b",
+                    "path": "<Keyboard>/d",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Move",
+                    "isComposite": false,
+                    "isPartOfComposite": true
                 }
             ]
         }
