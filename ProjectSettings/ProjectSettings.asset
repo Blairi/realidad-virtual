@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: Practica3_AxelMontiel
+  productName: Practica4_AxelMontiel
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -144,6 +144,9 @@ PlayerSettings:
   bundleVersion: 0.1
   preloadedAssets:
   - {fileID: 11400000, guid: d7d21fec3e08d724c8054b98bf053d95, type: 2}
+  - {fileID: -3987400717119367275, guid: 9d1ca50025146a743b6e78046159b691, type: 2}
+  - {fileID: 11400000, guid: 588d4f4c1550d0045ae61a5eb3487621, type: 2}
+  - {fileID: -944628639613478452, guid: 4e9aa6342219e5946a00b1eb2eb0d103, type: 3}
   metroInputSource: 0
   wsaTransparentSwapchain: 0
   m_HolographicPauseOnTrackingLoss: 1
@@ -164,7 +167,7 @@ PlayerSettings:
   androidSupportedAspectRatio: 1
   androidMaxAspectRatio: 2.1
   applicationIdentifier:
-    Android: com.Montiel.Practica3_Axel
+    Android: com.Montiel.Practica4_Axel
   buildNumber:
     Standalone: 0
     VisionOS: 0
